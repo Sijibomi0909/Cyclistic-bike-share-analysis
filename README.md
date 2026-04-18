@@ -136,4 +136,12 @@ Based on the analysis, I propose the following three data-driven marketing strat
 
 ---
 
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/oluwasijibomi-oderinde-b1700724/?skipRedirect=true)
+- 📧 Email: oderindesji@gmail.com
+
 *This case study was completed as part of the Google Data Analytics Professional Certificate Capstone Project.*
+
